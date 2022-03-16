@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infjc
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m startibg to learn programming
+- 🌱 I’m starting to learn programming
 
 <!---
 infjc/infjc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
